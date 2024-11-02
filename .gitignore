@@ -1,0 +1,13 @@
+build/*
+
+iso/EFI/BOOT/*
+
+iso/*
+
+!iso/EFI/BOOT
+
+out/*
+
+src/*.o
+
+
